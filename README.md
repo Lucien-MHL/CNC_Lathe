@@ -1,5 +1,6 @@
-<h1><a href="https://lucien-mhl.github.io/CNC_Lathe.github.io/">CNC車床刀具</a></h1>
+<h1>CNC車床刀具</h1>
 
+<h3><a href="https://lucien-mhl.github.io/CNC_Lathe.github.io/">Demo link</a></h3>
 <ol>
   <li>html 處理架構</li>
   <li>scss 處理版型</li>
